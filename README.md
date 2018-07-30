@@ -1,5 +1,3 @@
-Project Management - all core dev meeting agenda and minutes
-
 ### Agenda Items
 Agenda's are posted to https://github.com/icon-project/pm/issues. Anyone is welcome to add an item to the agenda as long as it follows these guidelines:
 
